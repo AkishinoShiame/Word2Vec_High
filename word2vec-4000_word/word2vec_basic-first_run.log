@@ -1,0 +1,240 @@
+Found and verified highschool_eng.zip
+Data size 14500
+Most common words (+UNK) [['UNK', 324], ('the', 769), ('to', 421), ('of', 410), ('and', 365)]
+Sample data [3433, 335, 476, 1, 136, 0, 277, 13, 1014, 6] ['Andrew', 'Carnegie', 'once', 'the', "world's", 'UNK', 'person', 'was', 'born', 'in']
+335 Carnegie -> 3433 Andrew
+335 Carnegie -> 476 once
+476 once -> 335 Carnegie
+476 once -> 1 the
+1 the -> 136 world's
+1 the -> 476 once
+136 world's -> 1 the
+136 world's -> 0 UNK
+Initialized
+Average loss at step  0 :  220.334289551
+Nearest to from: counts, stars, Dated, 595, happening, boast, feelings:, Polish,
+Nearest to year: recently, terms, hardest, determinant, Berkeley, discovered, mysterious, current,
+Nearest to groups: surrounding, than, size, draw, globe, chefs, 1996, Here,
+Nearest to It: subsequent, scream, enthusiasm, gameplay, swimming, posts, government, significantly,
+Nearest to for: superhuman, 300, accomplish, tickets, yolk, 150, reader, seeking,
+Nearest to US: Parents, park's, many, 1600s, charming, Athens, again, Somalis,
+Nearest to people: think, architect, responses, because, rope, safer, wrappers, cells,
+Nearest to over: position, rich, unlike, terror, approximately, carved, network, beyond:,
+Nearest to In: Cookbook, scenery, Wambui, instead, partly, Angry, members, Depression,
+Nearest to make: experts, tension, Consequently, towers, whistles, Just, Tosh0, doing,
+Nearest to that: Elite, strode, It's, eggs, restrictive, against, image, Six,
+Nearest to also: inquiry, There, Coke, runner, composite, thank-you, succeeded, ship,
+Nearest to all: founders, Conventional, reported, violation, This, reminders, afford, wasting,
+Nearest to where: bombers, broadly, passed, Advances, Berlin, blurry, Nathan's, boy's,
+Nearest to which: vegetables, disciplined, field, journal, methodology, blocks, amazing, willingly,
+Nearest to a: provides, 7500, inbuilt, recognize, 24-year-olds, stressful, lives, floor,
+Average loss at step  2000 :  20.4078128057
+Average loss at step  4000 :  4.62183596706
+Average loss at step  6000 :  4.22691782498
+Average loss at step  8000 :  3.95727888453
+Average loss at step  10000 :  3.74371602952
+Nearest to from: counts, Dated, boast, keeping, fast-growing, transaction, Alternatives, researching,
+Nearest to year: terms, multiplication, maintenance, tenfold, stock, hide, modify, hardest,
+Nearest to groups: inspired, Here, news, whom, 1996, size, giants, opportunities,
+Nearest to It: Poles, that, participants, pleasant, daughter, April, CDs, provided,
+Nearest to for: reader, 300, seeking, stock, T-Mobile, shocking, superhuman, smart,
+Nearest to US: 1997, gathered, Parents, many, separating, park's, 1600s, unpleasant,
+Nearest to people: responses, exactly, gas, valley, safer, 1889, encourage, Adams,
+Nearest to over: network, approximately, involving, ability, Process, carved, shelf-mates, Yoruba,
+Nearest to In: projected, Opened, Cookbook, yoga, Am, window, fast-growing, vaccines,
+Nearest to make: appropriate, execute, effort, equality, constitute, protecting, blasting, Alternatives,
+Nearest to that: It, It's, restrictive, Elite, strode, April, segment, ended,
+Nearest to also: inquiry, composite, runner, ship, wwwSunnyAirlinePilotorg, charming, athletics, thank-you,
+Nearest to all: There's, violation, following, effect, exhibition, founders, big, edge,
+Nearest to where: bombers, replacement, raged, restrictive, personalities, disapproval, struggle, landscape,
+Nearest to which: 23, York's, trips, vegetables, Spartans, Washington, blocks, floor,
+Nearest to a: Minister, generation, inbuilt, floors, millions, hunt, Anne, 595,
+Average loss at step  12000 :  3.56936406744
+Average loss at step  14000 :  3.4176991142
+Average loss at step  16000 :  3.27885114729
+Average loss at step  18000 :  3.15683516455
+Average loss at step  20000 :  3.04953377628
+Nearest to from: boast, Dated, counts, transaction, tallest, keeping, researching, documented,
+Nearest to year: multiplication, recommended, terms, dollar, sort, war, lives, second,
+Nearest to groups: whom, group, allows, spider, creating, reaches, Here, inspired,
+Nearest to It: that, Poles, April, CDs, not, improvement, pleasant, Washington,
+Nearest to for: seeking, reader, 300, smart, however, state-of-the-art, superhuman, across,
+Nearest to US: separating, Arnal's, Day, many, undertones, Somalis, Blood, gathered,
+Nearest to people: valley, Krung, encourage, men, economics, exactly, geocacher, opened,
+Nearest to over: network, eliminate, approximately, involving, tiger, Yoruba, 3-D/4-D, Process,
+Nearest to In: projected, Cookbook, Opened, yoga, fast-growing, At, vaccines, she,
+Nearest to make: findings, execute, effort, blasting, appropriate, advice, bodies, satirized,
+Nearest to that: It, restrictive, It's, Elite, segment, strode, April, dolphins',
+Nearest to also: inquiry, charming, chimneys, Can, wwwSunnyAirlinePilotorg, identify, athletics, ship,
+Nearest to all: There's, exhibition, edge, violation, steered, Here's, source, being,
+Nearest to where: inability, restrictive, struggle, innovations, bombers, raged, frame, countryside,
+Nearest to which: vegetables, 23, dramatically, York's, trips, largely, Washington, floor,
+Nearest to a: Minister, Europe, plot, 595, 64, awarded, Anne, Impulsive,
+Average loss at step  22000 :  2.94735056913
+Average loss at step  24000 :  2.85492153335
+Average loss at step  26000 :  2.78021774375
+Average loss at step  28000 :  2.71073057199
+Average loss at step  30000 :  2.65159862387
+Nearest to from: transaction, tallest, European, boast, keeping, researching, Dated, under,
+Nearest to year: multiplication, terms, neurological, sort, second, recommended, dollar, Air,
+Nearest to groups: whom, spider, group, Southern, allows, plenty, convey, claimed,
+Nearest to It: that, April, not, four-year-old, Poles, enter, improvement, Screaming,
+Nearest to for: 300, common, seeking, smart, however, Hyperactivity, futures, weekend,
+Nearest to US: separating, Yet, Somalis, Arnal's, undertones, diverse, Day, many,
+Nearest to people: Krung, valley, economics, opened, devices, interact, able, students,
+Nearest to over: network, park, eliminate, inspired, tiger, Yoruba, issued, Birth,
+Nearest to In: Cookbook, projected, At, she, fast-growing, Corporate, notable, yoga,
+Nearest to make: findings, blasting, effort, providers, advice, bodies, aggressive, humans,
+Nearest to that: It, restrictive, segment, Elite, dolphins', speaking, strode, disapproval,
+Nearest to also: chimneys, inquiry, charming, Can, releases, wwwSunnyAirlinePilotorg, Newspapers, That's,
+Nearest to all: contributed, edge, Here's, There's, source, into, communication, exhibition,
+Nearest to where: innovations, struggle, bombers, Wishing, restrictive, inability, Air, site,
+Nearest to which: vegetables, dramatically, York's, 23, trips, against, hoping, dishes,
+Nearest to a: Minister, Europe, plot, 64, awarded, millions, Africa, Therefore,
+Average loss at step  32000 :  2.5971898784
+Average loss at step  34000 :  2.55816785216
+Average loss at step  36000 :  2.51779126406
+Average loss at step  38000 :  2.48534502548
+Average loss at step  40000 :  2.45238547546
+Nearest to from: transaction, tallest, European, researching, boast, future, keeping, sources,
+Nearest to year: multiplication, terms, sort, earlier, Air, neurological, second, 62,
+Nearest to groups: Southern, claimed, 1998, whom, spider, wolves, adopted, says,
+Nearest to It: that, April, not, four-year-old, Screaming, enter, Hills, Poles,
+Nearest to for: 300, common, futures, seeking, smart, however, weekend, Hyperactivity,
+Nearest to US: undertones, Yet, Somalis, separating, diverse, literature, Arnal's, these,
+Nearest to people: Krung, valley, opened, interact, economics, characteristics, adults, loud,
+Nearest to over: park, network, eliminate, inspired, Birth, tiger, issued, personalities,
+Nearest to In: Cookbook, projected, At, she, Official, Corporate, explaining, fast-growing,
+Nearest to make: blasting, findings, providers, humans, effort, advice, northern, pick,
+Nearest to that: It, disapproval, segment, speaking, Elite, dolphins', restrictive, zero,
+Nearest to also: chimneys, inquiry, charming, Can, Newspapers, releases, inattention, euphoria,
+Nearest to all: contributed, edge, Here's, source, metal, tours, into, communication,
+Nearest to where: bombers, innovations, struggle, Air, Wishing, site, Empress, inquiry,
+Nearest to which: vegetables, against, York's, trips, dramatically, 23, 1883, dishes,
+Nearest to a: Europe, Minister, 64, Africa, plot, awarded, film, Therefore,
+Average loss at step  42000 :  2.43234510899
+Average loss at step  44000 :  2.41034640998
+Average loss at step  46000 :  2.39376525652
+Average loss at step  48000 :  2.37302828085
+Average loss at step  50000 :  2.36638354957
+Nearest to from: transaction, tallest, future, European, boast, Figaro, researching, sources,
+Nearest to year: multiplication, terms, sort, earlier, Air, hours, neurological, second,
+Nearest to groups: Southern, claimed, adopted, says, 1998, spider, chapels, creations,
+Nearest to It: that, Screaming, four-year-old, April, goose, not, Hills, enter,
+Nearest to for: 300, common, futures, weekend, seeking, smart, significant, however,
+Nearest to US: undertones, Yet, diverse, Somalis, these, separating, flat, literature,
+Nearest to people: Krung, valley, Americans, adults, opened, interact, barking, characteristics,
+Nearest to over: park, network, eliminate, inspired, Birth, tiger, personalities, Yoruba,
+Nearest to In: Cookbook, projected, At, she, Official, explaining, notable, Corporate,
+Nearest to make: blasting, providers, humans, findings, effort, pick, consumed, northern,
+Nearest to that: It, zero, disapproval, horns, segment, speaking, AD/HD, succeeded,
+Nearest to also: chimneys, inquiry, charming, Can, CN, inattention, burgundy-colored, releases,
+Nearest to all: contributed, edge, metal, source, forms, whistles, Here's, section,
+Nearest to where: struggle, bombers, innovations, hands-on, Air, sigma, site, Wishing,
+Nearest to which: against, York's, vegetables, 1883, dramatically, trips, No, dishes,
+Nearest to a: Europe, Minister, Therefore, millions, 64, fleeting, film, hunt,
+Average loss at step  52000 :  2.35069707984
+Average loss at step  54000 :  2.34243047148
+Average loss at step  56000 :  2.33128669238
+Average loss at step  58000 :  2.31681426758
+Average loss at step  60000 :  2.31242291224
+Nearest to from: transaction, future, tallest, European, sources, triggered, Figaro, boast,
+Nearest to year: multiplication, terms, sort, hours, Air, earlier, neurological, Dec,
+Nearest to groups: claimed, Southern, says, adopted, 1998, spider, chapels, surveyed,
+Nearest to It: Screaming, goose, four-year-old, Tower, Hills, convinced, efforts, not,
+Nearest to for: 300, common, futures, smart, pressured, seeking, weekend, significant,
+Nearest to US: undertones, Yet, diverse, value, flat, temporarily, these, Somalis,
+Nearest to people: Krung, Americans, valley, barking, opened, adults, straight, interact,
+Nearest to over: park, eliminate, Birth, network, blowing, inspired, Yoruba, constant,
+Nearest to In: Cookbook, At, projected, she, Official, notable, mosquito, explaining,
+Nearest to make: providers, blasting, humans, effort, pick, findings, consumed, earthy,
+Nearest to that: zero, horns, segment, AD/HD, disapproval, Elite, succeeded, speaking,
+Nearest to also: chimneys, inquiry, charming, CN, Can, inattention, burgundy-colored, respected,
+Nearest to all: contributed, metal, edge, forms, facts, layer, Here's, September,
+Nearest to where: struggle, bombers, hands-on, willingly, sigma, site, innovations, Air,
+Nearest to which: against, York's, 1883, vegetables, 1914, No, dishes, dramatically,
+Nearest to a: Europe, Minister, fleeting, film, Therefore, millions, 64, Polish,
+Average loss at step  62000 :  2.3089566853
+Average loss at step  64000 :  2.29990031457
+Average loss at step  66000 :  2.28843482888
+Average loss at step  68000 :  2.28830825436
+Average loss at step  70000 :  2.28132566136
+Nearest to from: transaction, future, tallest, sources, triggered, Figaro, lava, country,
+Nearest to year: multiplication, sort, hours, earlier, terms, Air, Dec, product,
+Nearest to groups: claimed, says, adopted, 1998, Southern, surveyed, spider, chapels,
+Nearest to It: goose, Screaming, four-year-old, convinced, heavier, Hills, efforts, Tower,
+Nearest to for: futures, common, 300, weekend, seeing, seeking, constantly, pressured,
+Nearest to US: undertones, value, diverse, flat, temporarily, Yet, these, September,
+Nearest to people: Krung, Americans, barking, valley, opened, adults, straight, 16,
+Nearest to over: eliminate, park, Birth, blowing, personalities, constant, Yoruba, inspired,
+Nearest to In: Cookbook, At, projected, Official, mosquito, she, notable, explaining,
+Nearest to make: providers, blasting, humans, pick, effort, earthy, Community, consumed,
+Nearest to that: horns, zero, AD/HD, segment, disapproval, Elite, succeeded, speaking,
+Nearest to also: chimneys, charming, inquiry, CN, Can, inattention, burgundy-colored, gray,
+Nearest to all: contributed, metal, edge, facts, First, layer, Conventional, forms,
+Nearest to where: struggle, hands-on, bombers, willingly, sigma, site, innovations, Air,
+Nearest to which: against, York's, 1883, 1914, vegetables, No, dishes, labs,
+Nearest to a: Europe, film, Therefore, fleeting, Minister, hunt, millions, movies,
+Average loss at step  72000 :  2.27680591172
+Average loss at step  74000 :  2.271058061
+Average loss at step  76000 :  2.27027997017
+Average loss at step  78000 :  2.26563263762
+Average loss at step  80000 :  2.26111164498
+Nearest to from: transaction, future, tallest, Figaro, lava, sources, triggered, country,
+Nearest to year: sort, multiplication, Dec, hours, Air, terms, product, earlier,
+Nearest to groups: says, claimed, adopted, Southern, 1998, spider, surveyed, creations,
+Nearest to It: goose, Screaming, convinced, heavier, Tower, Hills, efforts, four-year-old,
+Nearest to for: futures, common, 300, seeing, seeking, merchants, weekend, significant,
+Nearest to US: undertones, value, diverse, temporarily, flat, September, serving, Yet,
+Nearest to people: barking, Americans, Krung, valley, opened, straight, Foden, adults,
+Nearest to over: Birth, eliminate, blowing, park, personalities, They're, constant, apart,
+Nearest to In: Cookbook, At, projected, Official, mosquito, notable, standing, she,
+Nearest to make: providers, blasting, humans, earthy, effort, pick, Community, formula,
+Nearest to that: horns, AD/HD, segment, zero, disapproval, speaking, too, beyond:,
+Nearest to also: chimneys, CN, charming, inquiry, Can, inattention, burgundy-colored, releases,
+Nearest to all: contributed, metal, facts, First, layer, edge, Conventional, finishing,
+Nearest to where: struggle, hands-on, willingly, bombers, sigma, site, Empress, England,
+Nearest to which: against, York's, 1883, 1914, labs, vegetables, No, Sparti,
+Nearest to a: film, Europe, hunt, Therefore, fleeting, millions, movies, Minister,
+Average loss at step  82000 :  2.25462770808
+Average loss at step  84000 :  2.25397753841
+Average loss at step  86000 :  2.25447762692
+Average loss at step  88000 :  2.2493124488
+Average loss at step  90000 :  2.24251727992
+Nearest to from: transaction, future, Figaro, lava, caps, triggered, physiological, asked,
+Nearest to year: sort, multiplication, Dec, hours, Air, terms, product, locked,
+Nearest to groups: says, claimed, adopted, 1998, Southern, surveyed, company, spider,
+Nearest to It: goose, Screaming, convinced, Tower, heavier, touched, 23, Hills,
+Nearest to for: futures, 300, common, seeing, weekend, seeking, merchants, smart,
+Nearest to US: value, undertones, diverse, flat, temporarily, September, serving, teamwork,
+Nearest to people: barking, Americans, Krung, valley, opened, Foden, 16, straight,
+Nearest to over: Birth, blowing, eliminate, park, apart, reforming, personalities, constant,
+Nearest to In: Cookbook, At, projected, mosquito, Official, puzzled, notable, explaining,
+Nearest to make: blasting, providers, earthy, effort, pick, humans, Community, formula,
+Nearest to that: horns, segment, zero, AD/HD, disapproval, bigger, too, Elite,
+Nearest to also: chimneys, charming, CN, inquiry, Can, inattention, burgundy-colored, releases,
+Nearest to all: contributed, metal, facts, First, layer, Conventional, edge, finishing,
+Nearest to where: struggle, hands-on, willingly, sigma, desirable, bombers, site, added,
+Nearest to which: against, York's, 1883, 1914, vegetables, No, labs, Sparti,
+Nearest to a: film, Therefore, 17, hunt, fleeting, Europe, Polish, millions,
+Average loss at step  92000 :  2.24165563232
+Average loss at step  94000 :  2.24209516466
+Average loss at step  96000 :  2.24042927021
+Average loss at step  98000 :  2.23221424103
+Average loss at step  100000 :  2.23341763592
+Nearest to from: transaction, future, Figaro, triggered, caps, physiological, lava, asked,
+Nearest to year: multiplication, Dec, sort, hours, Air, terms, locked, product,
+Nearest to groups: says, claimed, adopted, 1998, Southern, surveyed, company, creations,
+Nearest to It: goose, Screaming, convinced, heavier, Tower, 23, touched, 358,
+Nearest to for: futures, common, 300, seeing, seeking, merchants, smart, Guggenheim's,
+Nearest to US: value, undertones, diverse, flat, temporarily, September, teamwork, Crowd-funding,
+Nearest to people: barking, Americans, opened, Krung, valley, Foden, 16, straight,
+Nearest to over: blowing, Birth, eliminate, apart, reforming, personalities, indicators, park,
+Nearest to In: Cookbook, At, projected, mosquito, Official, puzzled, promotional, notable,
+Nearest to make: providers, blasting, earthy, pick, effort, humans, formula, Community,
+Nearest to that: segment, horns, AD/HD, zero, too, disapproval, beyond:, Elite,
+Nearest to also: chimneys, charming, CN, inquiry, Can, inattention, burgundy-colored, precautionary,
+Nearest to all: contributed, metal, First, facts, Conventional, layer, finishing, edge,
+Nearest to where: struggle, hands-on, willingly, sigma, desirable, added, bombers, site,
+Nearest to which: against, 1883, 1914, York's, labs, Sparti, vegetables, No,
+Nearest to a: film, fleeting, Therefore, hunt, movies, Europe, millions, Polish,
