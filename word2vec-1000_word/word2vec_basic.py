@@ -182,7 +182,7 @@ with graph.as_default():
   init = tf.global_variables_initializer()
 
 # Step 5: Begin training.
-num_steps = 100000000001
+num_steps = 10000001
 
 with tf.Session(graph=graph) as session:
   # We must initialize all variables before we use them.
